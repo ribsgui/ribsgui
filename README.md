@@ -5,8 +5,8 @@
 <div>
 
 <a href="https://github.com/ribsgui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribsgui&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribsgui&hide_progress=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ribsgui&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribsgui&hide_progress=true&theme=tokyonight"/>
 
 </div>
 
