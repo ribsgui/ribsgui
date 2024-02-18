@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/2m52MqH.png"/>
+
 ## Opa! Eu sou o Guilherme.
 
 ### Embarque nessa jornada comigo!
